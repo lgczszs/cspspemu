@@ -1,7 +1,7 @@
 # CSharp Psp Emulator
 
 [![Actions Status](https://github.com/cspspemu/cspspemu/workflows/.NET%20Core/badge.svg)](https://github.com/cspspemu/cspspemu/actions?query=workflow%3A%22.NET+Core%22)
-[![Slack](https://img.shields.io/badge/chat-on%20slack-green?style=flat&logo=slack)](https://slack.soywiz.com/)
+[![Slack](https://img.shields.io/badge/chat-on%20slack-green?style=flat&logo=slack)](https://slack.soywiz.com/)a
 
 ![Kaiten Patissier PSP](http://soywiz.github.com/cspspemu/screenshoots/kaiten_patissier.png)
 
